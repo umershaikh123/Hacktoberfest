@@ -19,7 +19,7 @@
 
 - Don't use filthy words and be welcome for beginners and other people in this community.
 - Everbody is welcomed
-- make proper folder of your project in the following respective fields like blockchain , web development ... etc
+- make proper folder of your project in the following respective fields like blockchain , web/mobile development , A.I , coding ... etc
 - all the code you contribute should be yours
 
 
