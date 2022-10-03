@@ -1,10 +1,8 @@
-<h1 align="center"> Hacktoberfest 2022 🤖 </h1>
+<h1 align="center"> Welcome to Hacktoberfest 2022 🤖 </h1>
 
 ![Hacktoberfest2022](https://images.prismic.io/www-static/1cd0d641-4e0e-4ba3-8386-3125627394fa_Email+Banners-Dark.png?auto=compress,format)
 
  
-
-
 
 <div align="center">
   
@@ -14,6 +12,8 @@
 
 </div>
 
+
+## Make awesome open source contributions and brainstorm new ideas 
 
 ## Rules
 
