@@ -35,7 +35,7 @@ Hacktoberfest, in its 9th year, is a month-long celebration of open source softw
  
 
  
-## How Does it Work ❔
+## How Does it Work 💼
 
 Hacktoberfest is open to everyone in our global community!
 
