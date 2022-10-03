@@ -13,7 +13,14 @@
 </div>
 
 
-## Make awesome open source contributions and brainstorm new ideas 
+## Make awesome open source contributions , Discuss new ideas or open Issues 
+
+<br/>
+
+## Discussion section
+- [Discussion Section ](https://github.com/umershaikh123/Hacktoberfest/discussions)
+
+<br/>
 
 ## Rules
 
