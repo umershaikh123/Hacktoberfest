@@ -19,6 +19,8 @@
 
 - Don't use filthy words and be welcome for beginners and other people in this community.
 - Everbody is welcomed
+- make proper folder of your project in the following respective fields like blockchain , web development ... etc
+- all the code you contribute should be yours
 
 
  <br/>
