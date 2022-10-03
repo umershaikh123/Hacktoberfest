@@ -63,6 +63,6 @@ Here's what you need to participate and complete Hacktoberfest:
  <hr>
  
 ## How to contribute to this repository ⚒️
-Want to know how to make your contributions to this repository, head over to [CONTRIBUTING.md](https://github.com/SyedZawwarAhmed/Hacktoberfest-2022/blob/main/CONTRIBUTING.md).
+Want to know how to make your contributions to this repository, head over to [CONTRIBUTING.md](https://github.com/umershaikh123/Hacktoberfest/blob/main/CONTRIBUTING.md).
 ## Give me a follow ⭐
 **And yes, please don't forget to follow me and give this repository a star once your pull request has been merged. Happy Hacking!**
