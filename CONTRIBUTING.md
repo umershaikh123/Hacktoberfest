@@ -2,6 +2,7 @@
 First off, thanks for taking the time to contribute! ❤️
 
 All types of contributions are encouraged and valued.  
+All beginners and experts are welcomed
 
 ## Technologies
 you can make your project with any technologies
@@ -12,11 +13,16 @@ you can make your project with any technologies
 - Data analytics
 
 ## How to Contribute
+
+### PR / MRS
 - Fork The repo
 - Commit the changes in that forked repository.
 - Come to the main branch of this repository.
 - Create a new branch and make the Pull Request .
 - Or make merge changes to the existing projects
+
+### Issues
+- Submit any issues
 
 # How to propose non-code changes
 
